@@ -1,7 +1,6 @@
 <h1 align="center">Hi there, I'm Nilay Patel! 👋</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Nilay-hub/Nilay-hub/main/banner.png" alt="GitHub Banner">
 </p>
 
 <p align="center">
