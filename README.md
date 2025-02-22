@@ -54,21 +54,12 @@
 </p>
 
 ---
-
-## 📈 **GitHub Stats**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nilay-hub&show_icons=true&theme=dark" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nilay-hub&theme=dark" alt="GitHub Streak Stats" />
-</p>
-
----
-
 ## 📫 **Connect With Me**
 <p align="left">
   <a href="https://linkedin.com/in/nilay-patel-958b401a1">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:nilay.patel@example.com">
+  <a href="mailto:nilaynnp@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/Nilay-hub">
